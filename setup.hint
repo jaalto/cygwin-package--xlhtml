@@ -1,0 +1,5 @@
+sdesc: "Convert MS 199[57] format PPT and XLS files into HTML"
+ldesc: "Convert Powerpoint and Excel 199[57] files into optimized html. The
+output is via standard out so it can be re-directed to files or piped
+to filters"
+category: Utils
